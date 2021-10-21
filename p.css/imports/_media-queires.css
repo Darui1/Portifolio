@@ -1,0 +1,12 @@
+@media (max-width:800 px){
+
+    .rol{
+        display: block;
+    }
+
+
+
+    .col{
+        width: 100%;
+    }
+}

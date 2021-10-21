@@ -1,0 +1,26 @@
+Olá, meu nome é João Silva e eu sou Desenvolvedor Web!
+
+Aqui você pode saber mais sobre mim e sobre como trabalho, dar uma olhada em minha experiência e habilidades ou entrar em contato para novos jobs.
+
+Sobre mim
+
+Moro em Alegrete mas atendo clientes de todo o Brasil. Sou conhecido por fazer produtos de qualidade, durabilidade e que agregam valor para meus clientes.
+
+Trabalho usando a web como plataforma, ou seja, respiro HTML5, CSS3. Wordpress e JavaScript (ou melhor: ECMASCript). Crio sites para todos, seguindo as principais diretivas de acessibilidade, responsividade e web semântica, sem descuidar da qualidade de código.
+
+Satisfazer meus clientes é prioridade. Para isso, garanto um processo de desenvolvimento altamente interativo, baseado em feedback contínuo. Não trabalho com escopo fechado: o cliente é que decide quando o produto está pronto.
+
+Já desenvolvi alguns projetos UFCB(União das Federações de Capoeira do Brasil) e Casa de tapera(Primeira escola do mundo especializada no ensino do samba de roda). Neles, o foco principal era entregar uma experiência imersiva e impactante para o usuário final sem descuidar do desempenho e da acessibilidade da página.
+
+Habilidades
+
+
+HTML5
+CSS3
+Javascript 
+PHP
+Wordpress
+
+Contato
+
+Preencha e envie o formulário abaixo, responderei assim que possível!
